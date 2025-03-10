@@ -1,1 +1,1 @@
-# shulkerpanel.github.io
+潜影面板，一款后台终端会话管理面板。
